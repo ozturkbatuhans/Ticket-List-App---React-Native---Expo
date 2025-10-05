@@ -38,7 +38,7 @@ StyleSheet API
 
 Clone the repository:
 ```
-git clone https://github.com/yourusername/ticket-list-app.git
+git clone "link of your rep"
 cd ticket-list-app
 ```
 
